@@ -42,7 +42,7 @@ Please reach out if you are interested in presenting at a future event
 | 08/03| Emory (5200/214)| Florian Schäfer | Georgia Tech | [Solvers, Models, Learners: Integrating inference and simulation](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/EcqgjB55LZ5JonR61U7bnzgBJQWiAoyqjEUQBpXrop_KMw)|
 | 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | [AI's Expanding Role: Transforming Scientific Automation with LLM-Powered Agents](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/ET-ASOFb2BRErdJb5AOjWYoBhfCIIri-FP8lXDvtJzLy6A) |
 | 08/31| Teams| Adam Gleave| FAR AI | [Automated Testing for Machine Learning Systems](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/ER7a32f7de5IsOB2KetusHIBp7L4aGdtcBvd55ey8Kt2QQ)|
-| 09/14 |Teams| James Chapman|Boston University|Understanding Atomic-scale Materials Behavior Using Graph-based Machine Learning|
+| 09/14 |Teams| James Chapman|Boston University|Understanding Atomic-scale Materials Behavior Using Graph-based Machine Learning|(https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/Eb12f9I8ucdPjOlLSGV2xlcBSJ-BO32U5JNIL7WgsQfvDg)|
 
 <a href="#top"> &#10558; Back to top</a>
 
